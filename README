@@ -1,0 +1,10 @@
+A very very simple library for automatic conversion of text output types (most notably plaintext into html).
+
+It was created as a base for flash_messages plugin that allows easy mixing of
+plaintext and html flash messages without risking cross-site scripting
+vulnerabilities for messages containing user-supplied data.
+
+
+Author: Paweł Stradomski <pstradomski@codesprinters.com>
+
+(C) Codesprinters, 2008. Released under MIT licence.
